@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  MusicPlayer
-//
-//  Created by CodeWithBerg on 2020-01-08.
-//  Copyright © 2020 CodeWithBerg. All rights reserved.
-//
 
 import SwiftUI
 import AVKit
